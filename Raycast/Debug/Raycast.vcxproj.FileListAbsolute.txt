@@ -1,0 +1,2 @@
+E:\myStuff\coding\projects\raycast\Raycast\Debug\Raycast.exe
+E:\myStuff\coding\projects\raycast\Raycast\Debug\Raycast.pdb
